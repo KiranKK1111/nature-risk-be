@@ -135,7 +135,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .envrc
 .venv
 env/
@@ -153,6 +152,8 @@ venv.bak/
 
 # mkdocs documentation
 /site
+
+/data
 
 # mypy
 .mypy_cache/
