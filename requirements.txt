@@ -8,3 +8,7 @@ paramiko
 psutil
 sse-starlette
 httpx
+python-dotenv
+psycopg2-binary
+asyncpg
+sqlalchemy[asyncio]
